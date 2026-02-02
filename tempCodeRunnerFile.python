@@ -1,3 +1,0 @@
-str1 = "This is a string \t and we are creating it in python."
-
-print(str1)
